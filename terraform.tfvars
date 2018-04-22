@@ -1,1 +1,0 @@
-subnet-name         = "Weblayer subnet"
